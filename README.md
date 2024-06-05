@@ -22,6 +22,7 @@ Python:
     * sklearn.metrics: for computing the accuracy of the model and computing/displaying the confision matrix
     * sklearn.neighbors: for implementing the KNN algorithm for classification tasks
     * sklearn.multioutput: for fitting a single classifier to multiple target outputs in classification tasks
+
 Algorithms and Optimizations:
   * Gradient Descent
   * Classification-Based Algorithms:
